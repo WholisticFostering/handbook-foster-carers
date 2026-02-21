@@ -1,0 +1,28 @@
+---
+import DefaultFooter from '@astrojs/starlight/components/Footer.astro';
+
+// Get all props Starlight passes to Footer
+const props = Astro.props;
+---
+
+<footer>
+  <!-- Your custom content above -->
+  <!--<div class="my-extra-footer">
+    Custom stuff here
+  </div>-->
+
+  <!-- Forward ALL props to the original footer -->
+  <DefaultFooter {...props} />
+
+  <!-- Your custom content below -->
+  <div style="padding: 10px; text-align: center;">
+      <p>
+        <small>© 2013 - {new Date().getFullYear()} 
+          <a target="_blank" href="https://wholisticfostering.co.uk">
+            Wholistic Fostering
+          </a>
+        </small>
+      </p>
+  </div>
+
+</footer>
