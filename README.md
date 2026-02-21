@@ -1,22 +1,12 @@
-# Starlight Pwa Starter Kit: Basics
+# Wholistic Foster Carers Handbook
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Based on Starlight Pwa Starter Kit: Basics
 
-```
-npm create astro@latest -- --template starlight-pwa
-```
+## Getting Started
 
- 
-
-# Features 
-
-1. Works Fully Offline and updates itself when the user is connected to the network
-
-1. can be installed as a pwa on any device
-   
-1. pagefind search that can work offline
-
-1. can be turned into an app and shipped to google play windows store or apple store
-
-
-
+1. clone the repo  
+`git@github.com:WholisticFostering/handbook-foster-carers.git`
+1. install packages  
+`npm i`
+1. build or run  
+`npm run dev` or `npm run build`
