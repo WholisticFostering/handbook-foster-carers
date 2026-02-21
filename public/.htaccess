@@ -1,0 +1,15 @@
+# Serve service worker with correct MIME type
+<Files "sw.js">
+    AddType application/javascript .js
+</Files>
+
+# Serve manifest.json with correct MIME type
+<Files "manifest.json">
+    AddType application/manifest+json .json
+</Files>
+
+# Redirect all requests to index.html for SPA routing
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ /index.html [L]
