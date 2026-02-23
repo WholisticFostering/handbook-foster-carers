@@ -33,34 +33,6 @@ export default defineConfig({
 					label: 'Emergency',
 					collapsed: true,
 					autogenerate: { directory: 'sections/emergency' },
-
-					// items: [
-						
-						// Each item here is one entry in the navigation menu.
-						// { label: 'Introduction', slug: 'sections/emergency/intro' },
-						// { label: 'Emergency contacts (24/7)', slug: 'sections/emergency/contact-numbers' },
-						// { label: 'What to do if a child discloses abuse', slug: 'sections/emergency/disclosure' },
-						// { label: 'Missing from home procedure', slug: 'sections/emergency/missing-child' },
-						// { label: 'Immediate safeguarding concerns', slug: 'sections/emergency/concerns' },
-						// { label: 'Serious injury or medical emergency', slug: 'sections/emergency/serious-medical-emergency' },
-						// { label: 'Allegation made against you', slug: 'sections/emergency/allegation-against-me' },
-						// { label: 'Police involvement guidance', slug: 'sections/emergency/police-involvement' },
-						// { label: 'Introduction', slug: 'sections/emergency/intro' },
-						// { label: 'Alcohol, Drugs & Solvents', slug: 'sections/emergency/alcohol-drugs-and-solvents' },
-						// { label: 'Allegations', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Bullying', slug: 'sections/emergency/bullying' },
-						// { label: 'Child Protection', slug: 'sections/emergency/child-protection' },
-						// { label: 'Child Sexual Abuse (CSE)', slug: 'sections/emergency/child-sexual-exploitation' },
-						// { label: 'Children Missing from Care', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Confidentiality', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Images of Children', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Internet & Email', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Monitoring & Notifications', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Out-of-hours Support', slug: 'sections/emergency/allegations-against-staff-carers' },
-						// { label: 'Personal Care and Relationships', slug: 'sections/emergency/allegations-against-staff-carers' },
-					// ],
-						
-
 				},
 				{
 					label: 'Safeguarding',
@@ -103,25 +75,20 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Placements',
-					items: [
-					],
-				},	
+					label: 'Contact',
+					collapsed: true,
+					autogenerate: { directory: 'sections/contact' },
+				},
 				{
 					label: 'Recording',
-					items: [
-					],
+					collapsed: true,
+					autogenerate: { directory: 'sections/recording' },
 				},
 				{
 					label: 'Support',
-					items: [
-					],
-				},					
-				{
-					label: 'Reference',
 					collapsed: true,
-					autogenerate: { directory: 'reference' },
-				},
+					autogenerate: { directory: 'sections/support' },
+				},					
 				{
 					label: 'Policies',
 					collapsed: true,
