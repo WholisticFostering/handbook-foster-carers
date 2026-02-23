@@ -1,89 +1,58 @@
 ---
-title: Monitoring and Notifications
+title: 📣 Monitoring & Notifications
 ---
 
 
-All notifications should be submitted through the eform:
+All notifications must be submitted using our internal e-form: 👉
+**[Submit a Notification
+Form](https://eforms.wholisticfostering.co.uk/notification/)**
 
-<https://eforms.wholisticfostering.co.uk/notification/>
+This form mirrors the Ofsted format and creates an internal helpdesk
+ticket to track and manage the issue until fully resolved.
 
-This is a very similar form to the form used by Ofsted and will create
-an internal ticket on the help desk that will form the basis of
-documenting progress until a notification has been concluded,
+## 📘 Scope
 
-## - Scope
+This policy outlines the events that must be reported by Wholistic
+Fostering to external agencies, in line with:
 
-This chapter lists the agencies that must be notified by the fostering
-agency where certain events occur within the agency's foster homes or in
-relation to children placed in one of the agency's foster homes.
+-   **The Fostering Services (England) Regulations 2011** -- Schedule 7
+-   **National Minimum Standards** -- Standard 29
 
-It reproduces the table in Schedule 7 of the Fostering Services
-Regulations 2011 and is compliant with Standard 29 of the NMS standards
-for Fostering Services
+When any listed event occurs in a foster home or affects a child in
+placement, the **Designated Manager** must be informed immediately. They
+are responsible for notifying relevant agencies **as soon as
+practicable** after the event.
 
-Wherever an event listed in the table occurs within one of the agency's
-foster homes or in relation to a child or children placed in one of the
-agency's foster homes, the person receiving the information must
-immediately inform the Designated Manager, who is responsible for
-sending the notifications to the agencies listed.
+## 📝 Notifiable Events and Who Must Be Informed
 
-Notifications will be sent as soon as practicable after the even has
-occurred.
+  ---------------------------------------------------------- ------------ ----------------------- ------------------------ -------------------- ------------ ------------------------
+  **Event**                                                  **Ofsted**   **Placing Authority**   **Secretary of State**   **Area Authority**   **Police**   **Health (ICB/Trust)**
+  \-\--                                                      :\--:        :\--:                   :\--:                    :\--:                :\--:        :\--:
+  Death of a child in placement                              ✅           ✅                      ✅                       ✅                   ❌           ✅
+  Referral to DBS under Safeguarding Vulnerable Groups Act   ✅           ✅                      ❌                       ❌                   ❌           ❌
+  Serious illness or accident of a child                     ✅           ✅                      ❌                       ❌                   ❌           ❌
+  Serious infectious disease outbreak in foster home         ✅           ✅                      ❌                       ❌                   ❌           ✅
+  Allegation of serious offence by a child                   ❌           ✅                      ❌                       ❌                   ✅           ❌
+  Suspected involvement in prostitution                      ✅           ✅                      ❌                       ✅                   ✅           ❌
+  Serious police-related incident at foster home             ✅           ✅                      ❌                       ❌                   ✅           ❌
+  Child missing from placement                               ❌           ✅                      ❌                       ❌                   ✅           ❌
+  Serious complaint about a foster carer                     ✅           ✅                      ❌                       ❌                   ❌           ❌
+  Child protection enquiry involving a child in placement    ✅           ✅                      ❌                       ✅                   ❌           ❌
+  ---------------------------------------------------------- ------------ ----------------------- ------------------------ -------------------- ------------ ------------------------
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------- ------------------------ --------------------- ----------------- --------- ---------------- ------- ---
-                                                                                                                                                                                                                                             \                     \                                                                                                   \ 
-                                                                                                                                                                                                                                        Event\   To be notified to:\                                                                                                   \ 
+> 🔍 For full legal reference see: [Schedule 7 - Fostering Services
+> Regulations
+> 2011](https://www.legislation.gov.uk/uksi/2011/581/schedule/7/made)
 
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                      \ 
-                                                                                                                                                                                                                                             \                Chief\ Responsible authority\   Secretary of State\   Area authority\   Police\   Primary Trust\     Care\ 
-                                                                                                                                                                                                                                                                   \                                                                                                     
-                                                                                                                                                                                                                                                          Inspector\                                                                                                     
+## 🧾 Internal Process
 
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                      \ 
-                                                                                                                                                                                                  Death of a child placed with foster parents\                  yes\ yes\                     yes\                  yes\              \         yes\                   \ 
+-   The person receiving a notifiable event must **immediately inform
+    the Designated Manager**.
+-   The Designated Manager is responsible for reviewing, submitting, and
+    confirming all necessary external notifications.
+-   The helpdesk ticket created via the form will track progress until
+    the matter is closed.
 
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                      \ 
-                                                                                                                                                                                                   Information is provided to the Independent\                  yes\ yes\                     \                     \                 \         \                      \ 
-                                                                                                                                                                                                                                             \                                                                                                                           
-                                                                                                                                                                     Safeguarding Authority under any of sections 35, 36, 39, 41 or 45 of the\                                                                                                                           
-                                                                                                                                                                                                                                             \                                                                                                                           
-                                                                                                                                                                                                                                 Safeguarding\                                                                                                                           
-                                                                                                                                                                                                                                             \                                                                                                                           
-    Vulnerable Groups Act 2006(**[1](http://www.legislation.gov.uk/uksi/2011/581/schedule/7/made#f00037)**[)](http://www.legislation.gov.uk/uksi/2011/581/schedule/7/made#f00037) in respect of an individual working for a fostering service\                                                                                                                           
+## 🔗 Internal Links Added
 
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                      \ 
-                                                                                                                                                                    Serious illness or serious accident of a child placed with foster parents\                  yes\ yes\                     \                     \                 \         \                      \ 
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                      \ 
-                                                                                          Outbreak at the home of a foster parent of any infectious disease which in the opinion of a general practitioner attending the home is sufficiently\                  yes\ yes\                     \                     \                 \         yes\                   \ 
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                                                                                                    serious to be so notified\                     \ \                        \                     \                 \         \                        
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                                           Allegation that a child placed with foster parents has committed a serious offence\                     \ yes\                     \                     \                 yes\      \                        
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                                   Involvement or suspected involvement of a child placed with foster parents in prostitution\                  yes\ yes\                     \                     yes\              yes\      \                        
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                          Serious incident relating to a child placed with foster parents necessitating calling the police to\                  yes\ yes\                     \                     \                 \         \                        
-                                                                                                                                                                                                                                             \                                                                                                                           
-                                                                                                                                                                                                                          the foster parent's\                                                                                                                           
-                                                                                                                                                                                                                                             \                                                                                                                           
-                                                                                                                                                                                                                                         home\                                                                                                                           
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                                                             A child placed with foster parents is missing from the placement\                     \ yes\                     \                     \                 \         \                        
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                                               Any serious complaint about any foster parent approved by the fostering agency\                  yes\ yes\                     \                     \                 \         \                        
-
-                                                                                                                                                                                                                                             \                     \ \                        \                     \                 \         \                        
-                                                                                                                                         Instigation and outcome of any child protection enquiry involving a child placed with foster parents\                  yes\ yes\                     \                     yes\              \         \                        
-
-                                                                                                                                                                                                                                             \                                                                                                                           \
-                                                                                                                                                                                                                                             \                                                                                                                           \
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------- ------------------------ --------------------- ----------------- --------- ---------------- ------- ---
-
-\
+None required (form is external).

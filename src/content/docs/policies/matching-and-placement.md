@@ -1,104 +1,93 @@
 ---
-title: Matching and Placement
+title: 🧩 Matching & Placement
 ---
 
 
-Wholistic Fostering is committed to ensuring that children are
-appropriate matched and placed with approved foster carers who are
-capable of providing a high standard of care.
+At Wholistic Fostering, we believe every child deserves to be placed
+with a foster family who can meet their needs and support their
+identity, safety, and development.
 
-We believed that planned placements are the essence of good practice,
-but sometimes placements happen on the same day as the referral. This is
-particularly true where there are child protection issues, or asylum
-seeking children who have just arrived in the UK. It is essential at
-these times to get as much information as possible from the Social
-worker or the agency making the referral. Matching will still be of
-paramount importance and the most suitable foster carer will be
-approached.
+We aim to ensure **planned, thoughtful placements** wherever possible.
+However, we also recognise that some referrals are urgent. Even when
+same-day placements occur --- such as with safeguarding concerns or
+newly arrived asylum-seeking children --- **matching remains
+essential**. We work quickly but carefully to match each child to the
+most suitable carer.
 
-## Referral Procedure
+## 📋 Referral Process
 
-Our referral process is child-focused and we aim to make it as u ser
-friendly as possible for all those concerned. Most of our referral are
-generated from Local Authority commissioning departments officers. The
-initial information is received and transcribed onto our initial
-referral form.
+Our referral system is **child-centred, responsive and simple**. Most
+referrals come from local authority commissioning teams and are recorded
+using our internal form.
 
-      * The duty Social Worker will process all the arraignments generated from this initial starting point at the earliest opportunity so that referrals can be processed swiftly and efficiently.  Wholistic Fostering has a duty process that is followed.  
-      * The duty Social Worker in consultation with the duty manager will decide whether a referral is within the admissions criteria for Wholistic Fostering 
-      * The duty social worker will then try to identify an available foster carer/carers with the skills, qualities and experience of meeting the needs of the referral and this will be discussed with the Duty Manager
-      * The supervising social worker that is attached to the foster carer is consulted as to the appropriateness of the referral and will attend planning/discussion or review meetings at every stage of the process.  This would be line with their duties and responsibilities. If the supervising social worker is unable to be contacted on the day of the referral the Duty Social Worker will discuss the referral with the supervising social workers line manager.  
-      * The Duty Social Worker will undertake a risk assessment taking on board all available information and factors pertaining to the potential placement 
+The referral process includes:
 
-## Objectives
+-   The Duty Social Worker and Duty Manager reviewing the referral
+    against our agency's criteria.
+-   Identifying potential carers with the experience and capacity to
+    meet the child's needs.
+-   Consulting the carer's Supervising Social Worker. If unavailable,
+    their line manager is contacted.
+-   Completing a risk assessment based on the information provided.
+-   Logging all key decisions, with carers and the team kept informed
+    throughout.
 
-      * To discuss the information  contained in the referral form – the social  history and the needs of the young person 
-      * To determine the prospective foster carers capacity to meet the needs of the young person in terms of their approval, age range, race, linguistic, ethnicity, culture, religion, background, qualities, household make-up and experience 
-      * To identify the proposed task of  Wholistic Fostering and how this relates to the overall care plan 
+## 🎯 Matching Objectives
 
-Once it has been agreed that Wholistic Fostering will provide an
-appropriate placement and can assist the young person and their social
-Services Department, the contract arrangements are agreed as follows
+We aim to:
 
-      * To Clarify the Local Authority  Social Workers Role 
-      * To broadly agree the young person’s Care Plan 
-      * To enable the young person, their social worker, and significant other to gather information about the foster carer’s household 
-      * To diarise an overnight or weekend stay, or to visit the home of the foster carers prior to admission (//this might not be applicable in the case of emergencyplacements//) 
-      * To agree a date and make arrangements for admission 
-      * Minutes of the meeting are circulated to all those parties in attendance at the pre placement planning meeting 
+-   Understand the child's background, needs and care plan.
+-   Identify carers who can meet the child's needs --- including
+    cultural identity, age, language, religion, gender, and household
+    composition.
+-   Clarify Wholistic Fostering's role in supporting the placement.
+-   Work in partnership with the child's social worker, family, and
+    others.
 
-The above procedure will be specific to the child or young person
-involved in that referral is informed by the initial risk assessment and
-other reports provided by the placing authority
+If a match is agreed, the process may include:
 
-Full consideration must be given to the foster carers need for
-additional equipment and support
+-   Confirming the child's care plan and the Local Authority's
+    expectations.
+-   Sharing information about the foster carer and their household.
+-   Planning an introductory visit or overnight stay where possible.
+-   Arranging a formal placement date and sending written confirmation.
 
-## The matching report
+## 📑 Matching Report
 
-The matching report must address the proposed foster carer's ability to
-provide
+Each matching report must consider whether the carer can meet the
+child's needs in areas such as:
 
-      * Ethnic, cultural religious background compatibility or capacity to ensure these needs can be met 
-      * Basic care for the chi ld, children or young person 
-      * Ability to ensure the safety of the child, children or young person
-      * Proven ability of providing emotional warmth for the child, children or young person
-      * Effective stimulation fir the child, children or young person 
-      * Guidance and boundaries for the child, children or young person
-      * Stability for the child, children or young person 
-      * Ability to meet contact requirements 
-      * Ability to meet transport requirements 
-      * Community resources as to whether it can meet the needs of the child, children or young persons 
-      * Consideration must be given to the foster family’s social networks and family integration as this will have an impact on the child, children or young person. This is particular relevant when considering transracial/transcultural placements 
+-   Ethnicity, language, religion, and culture
+-   Emotional warmth and consistent care
+-   Safety, stability, and guidance
+-   Educational and social stimulation
+-   Contact and transport needs
+-   Access to relevant community resources
+-   Integration into the carer's household and wider social network
 
-## Balancing the child's hierarchy of needs
+This is especially important for transracial or transcultural
+placements.
 
-To be placed with a family from the same or similar ethnic background
-should be the key priority within the child's hierarchy of needs.
+## ⚖️ Balancing Identity & Needs
 
-However, where a child or young person has a diverse hierarchy of needs
-these should be prioritised, taking into account the wishes and feelings
-of the child or young person and his or her family. A "good enough
-"match to the child's full range of needs should then be sought, with
-each case being considered on its own merits.
+Our aim is to meet the **full range of each child's needs**, with
+priority given to their **identity and cultural heritage**.
 
-Language for instance, the language needs of a child or young person
-will have particular significance for someone who is newly arrived here
-and if no appropriate placement is immediately available then a decision
-will need to be made as to which aspect of a child's identity is to be
-given precedence. For example a newly arrived black French speaking
-child from Zaire could feel most comfortable with another black African
-family even though they were non French speaking but with whom they are
-more likely to share some racial and cultural similarity than with a
-French speaking white family. Any such decision should be led by the
-wishes of the child or young person where ever this is possible to do
-so.
+Where not all needs can be matched immediately --- especially in
+emergency placements --- we support **child-led decision-making** and
+work closely with the placing authority to improve the match as soon as
+possible.
 
-Where it has not been possible for a child or young person to be placed
-appropriately in an emergency such that their needs in terms of gender,
-religion, ethnic origin, language, culture, disability and sexuality
-cannot be adequately met, steps will be taken to achieve a suitable
-placement as soon as possible. This may mean that the placing authority
-will want to move the child to a placement outside of Wholistic
-Fostering and as such we will deem to support this in the best interest
-of the child.
+Example: A French-speaking child from Zaire may feel most at home with a
+Black African family, even if they don\'t speak French, due to shared
+cultural and racial identity.
+
+If the child's needs cannot be fully met within Wholistic Fostering, we
+will work in partnership with the placing authority to support a move
+that best serves the child.
+
+## 🔗 Related Policies
+
+-   [Equality, Diversity & Inclusion](policies/equal_opportunities)
+-   [Culture & Diversity](policies/culture_and_diversity)
+-   [Children & Participation](policies/children_and_participation)

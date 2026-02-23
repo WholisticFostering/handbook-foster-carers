@@ -1,188 +1,144 @@
 ---
-title: Standards of Care
+title: 🧭 Standards of Care
 ---
 
 
-Introduction and Underpinning Regulations and Standards
+## 📜 Introduction & Legal Framework
 
-\<WRAP center round info 70%\> The Fostering Services (England)
-Regulations 2011 regulation 15 states that the fostering service
-provider 'must promote the health and development of children placed
-with foster parents'.This is also addressed in National Minimum Standard
-6 Promoting good health and wellbeing. Under regulation 15, the
-fostering service must ensure that each child: • Is a registered patient
-with a general medical practitioner • Has access to such medical,
-dental, nursing, psychological and psychiatric advice, treatment and
-other services as he/she may require • Is provided with such individual
-support, aids and equipment which he/she may require as a result of any
-particular health needs or disability he/she may have, and • Is provided
-with guidance, support and advice on health, personal care and health
-promotion issues appropriate to his/her needs and wishes. The Children
-Act 1989 Guidance and Regulations Volume 4: Fostering Services goes into
-more detail on these matters and the requirement to ensure that foster
-carers and staff possess the appropriate skills and knowledge to meet
-children's health needs, administer basic first aid, minor illness
-treatment and medication.The guidance also requires carers to be clear
-about delegated authority in matters of health and treatment (paragraphs
-3.49-3.62). \</WRAP\>
+Fostering Services (England) Regulations 2011 -- Regulation 15 National
+Minimum Standards -- Standard 6 Children Act 1989 Guidance -- Volume 4:
+Fostering Services
 
-## Introduction
+Wholistic Fostering is committed to maintaining the highest standards of
+care for every child we look after.
 
-Wholistic Fostering is committed to providing the highest standards of
-care for looked after children we look after. Children and young people
-have the right to feel safe, to be treated with respect, and to be a
-valued, and receive a quality of care consistent at least with the
-National Minimum Standards 2011. Ensuring the maintenance of good
-quality care will be central to the Supervising Social Workers role in
-working to support the Foster Carer. The Family Placement Manager will
-ensure that processes for ensuring a safe quality environment are
-maintained and address minor issues through regular supervision of
-Supervising Workers and monitoring the service.
+Children have a right to:
 
-## Investigating Concerns for Standards of Care
+-   Be safe and feel valued
+-   Have their physical and emotional needs met
+-   Be supported by skilled, knowledgeable carers
 
-Poor standards of care will be investigated under the management of the
-Family Placement Manager or Assistant Manager.
+Ensuring quality care is a shared responsibility between:
 
-Complaints received from or about a young person's care should be
-recorded using the Complaints form and logged and resolved using the
-complaints procedure. This may include minor complaints that should be
-quickly and informally resolved.
+-   Foster carers
+-   Supervising Social Workers
+-   Family Placement Managers
 
-If a Supervising Social Worker or the child/young person's Social Worker
-receives information from another party or notes themselves a serious
-concern regarding a foster carer's performance in meeting standards of
-care, this should be recorded on a Foster Care Notification and sent to
-the Family Placement Manager within one working day.
+## 🛠 Monitoring Standards of Care
 
-The Family Placement Manager will decide whether the matter should be
-investigated as a Standards of Care matter or as a safeguarding issue or
-complaint. They must ensure that the Serious Occurrence is recorded and
-logged, with details of the concern and an eventual outcome. (To be
-passed to administration team for logging and saving.)
+Supervising Social Workers (SSWs) monitor foster care practice
+regularly. Minor concerns are addressed through:
 
-It is important that any subsequent discussion about the cause of
-concern is couched in respect of standards/competences which are not
-being met so that there can be an objective measure of the concern.
+-   Support and guidance
+-   Training
+-   Supervision sessions
 
-Where the Fostering Manager confirms that the concern should be dealt
-with under the Standards of Care Procedure, the Supervising Social
-Worker must arrange to visit the foster carer within 5 working days of
-receiving the information to discuss the cause for concern.
+More serious concerns are addressed through this **Standards of Care**
+process.
 
-In discussion with the Foster Carer the Supervising Social Worker will
-make the Foster Carer aware of the relevant National Minimum Standard
-2011 and the relevant training standard.
+## 🚩 When Concerns Arise
 
-The Supervising Social Worker will recommend how the issues will be
-addressed, and propose timescales for completion of the action to bring
-standard of practice to the required level.
+If a concern about a foster carer's standard of care is raised by:
 
-The Supervising Social Worker will record the visit and include in the
-record any actions and recommendations. This record will be signed by
-both parties.
+-   A child or young person
+-   A social worker
+-   Another professional or foster carer
 
-The Supervising Social Worker will send a copy of the record of this
-visit to the Foster Carers within 5 working days.
+\...the concern must be:
 
-If the Foster Carer does not agree to the proposed remedial action at
-the end of the meeting, a Standards of Care meeting will be convened
-which has access to this record.
+-   Documented by the SSW using a **Foster Care Notification**
+-   Reported to the **Family Placement Manager** within **1 working
+    day**
 
-## Serious Causes for Concern­ Child Protection
+The Family Placement Manager will assess whether the concern should be
+treated as:
 
-Where there are concerns that the standards of care may reach the
-threshold of 'significant harm' in relation to the emotional, sexual and
-physical health of the child the Allegations Against Foster Carers
-Procedures and Local Safeguarding Children Procedures should be applied.
+-   A **Standards of Care** issue
+-   A **safeguarding concern** (i.e. potential significant harm)
+-   A **complaint**
 
-## Standards of Care Meeting
+## 📋 Standards of Care Process
 
-These meetings are in place to ensure any serious and / or repeated
-concerns expressed by Looked After Children, Social Workers and others
-in relation to the care offered by Foster Carers are fully explored and
-a record is maintained.
+If the concern **does not meet the safeguarding threshold**, the SSW
+will:
 
-This meeting will be arranged where one of the following occurs:
+-   Arrange a visit to the foster carer within **5 working days**
+-   Discuss the issue in reference to relevant **National Minimum
+    Standards**
+-   Agree an **action plan** and timescales for improvement
+-   Record the discussion and share a signed copy with the carer
 
--   The Family Placement Manager decides that any single concern is of
-    sufficient concern to warrant a meeting;
--   Three concerns about a Foster Carers care or practice in any 1 year
-    period (where appropriate and in discussion with others the
-    Fostering Service Manager may decide concerns raised do not merit a
-    Standard of Care meeting). Where this occurs a record including the
-    reasons for this decision will be recorded on the foster carer's
-    file; \-- *Note: all issues regarding standards of care are
-    currently addressed with the Foster Carer by their Supervising ­
-    Social Worker (or another member of the Family Placement Service as
-    directed by the Family Placement Manager, without delay.*
--   Another Foster Carer uses the Family Placement Service
-    Whistleblowing Procedure and the Family Placement Manager decides a
-    meeting with greater attendance is required to fully address the
-    concerns raised;
--   A LSCB Strategy Meeting has determined that the threshold of
-    significant harm is not met, however concerns about the care offered
-    or Foster Carers willingness to work with the Agency still remain.
+If the carer **disagrees** with the actions, a **Standards of Care
+Meeting** will be arranged.
 
-### Process
+## 🔴 If It\'s a Serious Concern
 
-The Foster Manager or Senior Supervising Social Worker will write to the
-Foster Carer to inform them of the chronology of complaints, the
-date/venue and invitation list for the meeting.
+If the concern relates to possible **significant harm**, the following
+must happen:
 
-The Supervising Social will deliver the letter/chronology within 5
-working days. The Supervising Social Worker will explain the content of
-the letter to the Foster Carer.
+-   The **Allegations Against Foster Carers Policy** and local
+    safeguarding procedures are followed
+-   The carer may be suspended while the matter is investigated
 
-The invitation list to include Foster Carer, Family Placement Manager or
-Assistant Manager, current Child's Social Worker(s) and Manager and if
-appropriate previous Social Worker, Fostering Manager, District Team
-Manager.
+## 🧑‍⚖️ Standards of Care Meeting
 
-The Family Placement Manager or Assistant Manager will chair the meeting
-and minutes will be taken by a member of staff.
+A meeting will be arranged if:
 
-### Purpose
+-   A serious single concern arises
+-   There are **3 concerns** in 12 months
+-   A **whistleblowing** report requires wider discussion
+-   A safeguarding meeting concludes there\'s no harm, but concerns
+    remain
 
--   To enable a full and open discussion on the identified concerns and
-    identify a way forward. The potential outcomes to consider may be:
-    additional training and/or closer supervision of the Foster Carers
-    practice to support development. The Foster Care Review could be
-    brought forward. Whether or not this happens the next annual Foster
-    Care Review Chairperson shall have access to the Minutes of the
-    Standards of Care Meeting.
+### Who Attends?
 
-The Supervising Social Worker will ensure the detail of the recorded
-cause for concern/s within the Standard of Care meeting are detailed
-within their report (FCR3) for the next Foster Care Review.
+-   Foster carer(s)
+-   Supervising Social Worker
+-   Family Placement Manager or Assistant Manager (Chair)
+-   Child\'s Social Worker (and manager, if appropriate)
+-   Other relevant professionals
 
-### Meeting
+### What's Covered?
 
--   Reason for Meeting;
--   Any previous concerns in relation to the Foster Carer;
--   Sharing Information;
--   Work already undertaken to resolve the issue;
--   Agreed actions, date and by whom;
--   Decision about whether the Foster Care Review to be brought forward
-    and the Agency's recommendation as to the Foster Carers continued
-    approval.
+-   The concern(s) raised
+-   What's already been done to address them
+-   Actions needed to improve
+-   Whether to bring forward the **Foster Carer Review**
+-   Whether the carer\'s approval status should change
 
-A copy of the minutes will be kept in the Carers Record.
+Minutes will be recorded and added to the foster carer's file.
 
-## Foster Care Review
+## 🔁 Foster Carer Review
 
-Where it is decided a Foster Care Review is required, the review must
-consider if the carers approval remains suitable to foster or whether
-their terms of approval should be changed.
+If required, a **Foster Carer Review** will be held to:
 
-If the foster carer does not wish to engage in a foster carer review,
-the matter can be taken directly to the Fostering Panel. If the matter
-is referred to the Fostering Panel, Foster Carers will have access to
-independent support.
+-   Assess if approval remains appropriate
+-   Recommend changes to terms of approval
+-   Consider further support or training needs
 
-If a proposal to terminate approval has been made by the Agency Decision
-Maker, the foster carers may make representations within 28 days to the
-Agency Decision Maker.
+If the carer **does not cooperate**, the matter can go directly to the
+**Fostering Panel**.
 
-Any Notification Form should be recorded on the Foster Carers file and
-the Chronology, with an outcome clearly stated.
+Carers have the right to:
+
+-   Receive independent support
+-   Make written representations within **28 days** if approval is at
+    risk
+
+## 🗂 Documentation
+
+All relevant forms (e.g. Notifications, Minutes, Outcomes) must be:
+
+-   Saved in the foster carer\'s file
+-   Logged on their Chronology
+-   Shared with the carer and any involved professionals
+
+## ✅ Summary
+
+This policy helps ensure:
+
+-   Clear expectations of foster carers
+-   Consistent, supportive responses to concerns
+-   High-quality care for children and young people
+
+For questions or guidance, speak to your **Supervising Social Worker**.

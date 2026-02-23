@@ -1,48 +1,95 @@
 ---
-title: Staff Supervision
+title: 👥 Staff Supervision
 ---
 
 
-This policy sets out how employees can expect to be supervised and
-provides managers with the key elements needed to carry out supervision
-effectively.
+At Wholistic Fostering, we believe that **effective supervision is key**
+to maintaining high standards of care, supporting staff wellbeing, and
+achieving the best outcomes for children, young people, and foster
+carers.
 
-Wholistic Fostering Services (WF) remains committed to the professional
-development, personal development and the support of employees through
-supervision as part of a wider performance management framework. (See
-[Performance and Development
-Policy](/policies/performance_and_development_policy)) This document
-applies to all social workers and social work managers and to all
-employees working directly with WF foster carers and the children and
-young people they look after.
+This policy explains:
 
-Professional supervision can make a major contribution to the way
-organisations ensure the achievement of high quality provision and
-consistent outcomes for people who use our services (children, young
-people and foster carers). High quality supervision is also vital in the
-support and motivation of workers undertaking demanding jobs and should
-therefore be a key component of retention strategies .
+-   What supervision is
+-   Why it matters
+-   What employees can expect
+-   What managers are responsible for
 
-Supervision is the process of reflecting on practice issues, planning
-interventions, sharing information and decision making, developing
-improved practice to support children, young people and foster carers,
-implementing quality assurance and supporting continual professional
-development.
+This applies to **all staff**, especially:
 
-Conducted in a supportive environment, supervision facilitates an open
-and honest twoway communication, which facilitates mutual learning,
-enhances accountability, and facilitates improved practice outcomes for
-those within the service we provide.
+-   Social workers and their managers
+-   Employees working directly with foster carers, children or young
+    people
 
-## Purpose
+Supervision is part of a wider performance and development framework. 👉
+See: [Performance and Development
+Policy](/policies/performance_and_development_policy)
 
-      * To provide a framework for the supervision of employees with the aim of delivering an excellent service that delivers positive outcomes for children, young people and foster carers, and meets organisational goals.
-      * To maintain and develop high standards of professional practice;
-      * To provide quality assurance for effective case management and recording;
-      * To support the delivery of services provided by WF workforce
+## 🎯 Purpose of Supervision
 
-## Links to Other Strategies
+Supervision is a **regular, structured meeting** between a staff member
+and their line manager. It provides space to:
 
-      * Wholistic Fostering ‘s appraisal process;
-      * Every Child Matters Agenda;
-      * TSD
+-   Reflect on practice and decision-making
+-   Plan work and solve problems
+-   Share updates and review progress
+-   Ensure good case recording and compliance
+-   Set goals and monitor development
+-   Support wellbeing and motivation
+-   Improve outcomes for those we care for
+
+## 💡 Why Supervision Matters
+
+High-quality supervision helps ensure:
+
+-   A strong, consistent service to children and carers
+-   Staff feel supported, valued, and equipped for their role
+-   Ongoing learning and professional development
+-   Problems are addressed early and openly
+-   Accountability is clear, with mutual trust and feedback
+
+## 🧱 Supervision Supports\...
+
+-   🧠 Better practice and confident decision-making
+-   💬 Open two-way communication
+-   📁 Quality assurance and effective casework
+-   🚀 Continuous personal and professional growth
+-   🤝 Retention and wellbeing in demanding roles
+
+## 🔗 Related Policies and Frameworks
+
+Supervision links closely to:
+
+-   [Performance & Development
+    Policy](/policies/performance_and_development_policy)
+-   Wholistic Fostering\'s appraisal process
+-   The Every Child Matters framework
+-   TSD (Training, Support & Development Standards)
+
+## 📝 What to Expect in Practice
+
+All employees can expect:
+
+-   **Regular 1:1 supervision sessions** -- typically monthly or as
+    agreed
+-   A **clear agenda** covering practice, progress, concerns, and
+    development
+-   A **supportive, private space** for reflection and feedback
+-   **Written records** of supervision, shared and signed
+
+Managers are responsible for:
+
+-   Scheduling and preparing for supervision
+-   Creating a safe and respectful environment
+-   Addressing practice or performance issues constructively
+-   Following up actions and tracking outcomes
+
+## 📌 Summary
+
+Supervision at Wholistic Fostering is not just a requirement --- it\'s a
+**key tool for growth, learning and quality assurance**. It reflects our
+commitment to the development and wellbeing of our staff, and
+ultimately, to the children and carers we support.
+
+If you're unsure about your supervision arrangements, speak to your line
+manager or HR.

@@ -1,19 +1,30 @@
 ---
-title: Family and Friends
+title: Family and Friends Foster Carers
 ---
 
 
-At the time of review Wholistic have no family and friends foster carers
-and no plans to approve any. This policy will be updated during 2018 in
-advance of any change in this regard.
+Wholistic Fostering currently has no approved family and friends foster
+carers and no plans to approve any at this time. This policy will be
+updated if that changes.
 
-## Underpinning Regulations and Standards
+## Underpinning Standards
 
-National Minimum Standard 30 addresses Family and friends as foster
-carers. It applies to local authority fostering services and to any
-fostering agencies which approve family and friends foster carers.The
-fostering service should ensure that:
+National Minimum Standard 30 states that:
 
-\<WRAP center round info 60%\> 'The needs and circumstances of family
-and friends foster carers are taken into account when determining the
-fostering service's policies and practices.'(Standard 30.1) \</WRAP\>
+\*The needs and circumstances of family and friends foster carers should
+be taken into account when determining the fostering service's policies
+and practices.\*
+
+## Future Practice
+
+If Wholistic begins to assess or approve family and friends carers, this
+policy will be expanded to include:
+
+-   Assessment and approval processes
+-   Training, supervision and support
+-   Placement matching and safeguarding
+-   Ongoing review in line with foster carer review procedures
+
+## Review
+
+This policy will be reviewed regularly and updated if plans change.

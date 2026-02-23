@@ -1,162 +1,119 @@
 ---
-title: Administration of Medication and First Aid
+title: 💊 Administration of Medication & First Aid
 ---
 
 
-## Scope
+This policy ensures all children and young people receive safe,
+appropriate first aid and medication support --- in line with fostering
+regulations and National Minimum Standards (Standard 6: Promoting Good
+Health).
 
-This chapter is compliant with the Fostering Services National Minimum
-Standards and Regulations 2011, Standard 6 Promoting Good Health and
-Wellbeing.
+------------------------------------------------------------------------
 
-## Home Remedies
+## 🩺 Home Remedies
 
-Home Remedies are medicines, suitable for children, which can be bought
-\'over the counter\' without prescription, including Paracetomol.
+\* Foster carers must always seek advice from a doctor before giving
+**any medication**, including over-the-counter remedies. \* **Aspirin**
+must not be given to children unless specifically prescribed. \* **Other
+home remedies** (e.g., cold/flu products) may only be given:
 
-Foster carers must seek advice and guidance in relation to the
-management and administration of medication and this will be done
-together with the prescribing doctor whether this is a GP or a hospital
-consultant/Doctor.
+-   With parental consent recorded in the [Placement
+    Plan](procedures/placement-plans)
+-   Or, if unavailable, following consultation with the child's social
+    worker
 
-### Aspirin
+\* Remedies must be kept in a **locked cabinet**, unless a young person
+is permitted to self-administer (and this is recorded in the plan). \*
+Dosage limits:
 
-Although Aspirin may be purchased \'over the counter\', without
-prescription; it may not be given to children unless prescribed by a
-medical practitioner.
+-   Paracetamol -- max 24 hours without medical advice
+-   Other remedies -- max 48 hours without advice
 
-### Other Home Remedies
+------------------------------------------------------------------------
 
-Other Home Remedies may only be given to a child with the consent of the
-parent (which should be recorded in the Placement Agreement/Placement
-Plan) WF recognise that this may not always be possible to obtain an
-therefore in such circumstances liaise with the child's social worker.
-Home Remedies may be given if the child is over 16 years of age, or
-having consulted the child\'s GP to ensure that no adverse reactions may
-result.
+## 🧰 First Aid
 
-Home Remedies must be kept in a locked cabinet that is only accessible
-to the foster carers, unless a child is permitted to keep his/her own
-Home Remedies, in which case the arrangements for this must be set out
-in the Placement Agreement/Placement Plan.
+\* A stocked **First Aid Kit** must be kept in the home and car. \* The
+**Supervising Social Worker** checks arrangements during visits. \*
+First aid must be given by a certified carer or under their supervision.
+\* Children may self-administer minor first aid only if trained and
+agreed in their plan.
 
-Home Remedies, other than Paracetomol, should only be given for a
-maximum of 48 hours. If the symptoms persist beyond that time the child
-should see a medical practitioner before further dosages are given.
-However, if Paracetomol is given for 24 hours and the symptoms still
-persist, the child should see a medical practitioner before further
-dosages are given.
+------------------------------------------------------------------------
 
-Where children are deemed not to be capable of administering Home
-Remedies themselves, care must be taken to ensure they consume the
-product as required, in the presence of a foster carer.
+## 💼 Administration of Medicines
 
-## First Aid
+Each administration must be clearly recorded, including:
 
-Fully equipped First Aid boxes must be kept in each home and in each
-vehicle used to carry children. The Supervising Social Worker for the
-foster carers must ensure that suitable arrangements exist to keep First
-Aid boxes equipped.
+-   Child's name
+-   Medication name and dosage
+-   Date/time given
+-   Name/signature of the person administering
+-   Reason for refusal, if applicable
 
-Children may administer their own First Aid if they have a suitable
-First Aid certificate or under the supervision of a certified carer.
+📄 Use the [Child Health Monitoring
+Form](resources/forms/child_health_monitoring).
 
-If children are not deemed to be capable of giving First Aid themselves
-or under supervision, a certified carer must administer it.
+------------------------------------------------------------------------
 
-## Child Health Record & Monitoring Administration of Medication
+## 📦 Receiving Medication
 
-### Administration of medicines
+All medicines entering the home must be logged with:
 
-The following steps must be followed when administering medication:
+-   Date received
+-   Medication name, strength, dosage
+-   Quantity
+-   Expiry date
+-   Child\'s name
+-   Name/signature of person receiving
 
-Check the medication to ensure that it is prescribed for the child in
-question and it is within the expiry date.
+------------------------------------------------------------------------
 
-Ensure that the child's name, the name of the medication, and the dosage
-instructions are correct, and that the dosage has not already been
-administered.  Establish how the medication is to be administered.
+## ♻️ Disposal of Medication
 
-Record each administration of the medicine including the date, time,
-dosage, balance, the carer's name and signature.
+Return or safely dispose of unused medication and record:
 
-Record the refusal or non-administration of medicine including the
-reason why. Please view the \'[Child Health Record and Monitoring
-Form](http://eforms.wholisticfostering.co.uk/foster-parent-forms/wffp05-child-health-record-monitoring/)
-here.
+-   Date and quantity disposed
+-   Medication details
+-   Child's name
+-   Signature of person disposing
 
-### Receipt of Medicines
+Use a pharmacy where possible.
 
-All medicines brought into the home from whatever source, including
-discharge medication from hospital, medicines prescribed in an acute
-situation as well as medicines prescribed on a regular ongoing basis or
-those brought from another home, should be recorded.
+------------------------------------------------------------------------
 
-The record should show:
+## 🚑 Medical Emergencies
 
-      * Date of receipt
-      * Name, strength and dosage of medicine
-      * Quantity received
-      * Expiry date
-      * Name of the child for whom medication is prescribed/purchased.
-      * Signature of the carer receiving the medicines.
+In an emergency:
 
-### Disposal of Medicines
+-   Apply first aid if safe
+-   **Call 999 immediately** if needed --- never delay for permissions
+-   Inform the [Supervising Social Worker](staff/staff_supervision) as
+    soon as possible
 
-To provide a full audit trail of medicines, a record is required to
-identify a removal of the medication from the home. This record should
-detail the following:
+If the child is unconscious or injured:
 
-      * Date of disposal/return to pharmacy
-      * Name and strength of medicine
-      * Quantity removed
-      * Name of the child for whom the medicine was prescribed/purchase
-      * Signature of the carer who arranges disposal of medicine
+-   Do not move them unless essential for safety
+-   Use recovery position if they are breathing
+-   Never leave them alone or give anything by mouth
+-   For sharps injuries: clean with soap and water; do not suck the
+    wound
 
-## Medical Emergencies
+------------------------------------------------------------------------
 
-If a child is at risk or requires First Aid/Medical attention, carers
-should apply first-aid procedures if it is safe to do so, and notify
-their Supervising Social Worker as soon as possible. However, carers
-must not compromise or delay the process of getting medical help by
-doing so. If in any doubt, call medical help.
+## 📝 Recording Accidents and Illnesses
 
-If there is a risk of serious harm or injury, or the carers are unable
-to manage safely, the Police should be notified.
+All health-related incidents must be recorded in:
 
-Foster carers should always assess the situation and in a medical
-emergency, send for medical help and an ambulance. Before assistance
-arrives:
+-   The foster carer\'s **daily record**
+-   The [Health Monitoring
+    Form](resources/forms/child_health_monitoring)
+-   If serious, the [Accident/Illness Record
+    Form](resources/forms/accident_form)
 
-      * Do not move the person
-      * Try to clarify why the emergency has occurred
-      * Collect any drug samples or spillages (e.g. vomit) for medical analysis
-      * Do not induce vomiting
-      * Keep the person calm, under observation, warm and quiet
-        * If the person is unconscious:
-          * Ensure that they can breathe and place in the recovery position o Do not move them if a fall is likely to have led to spinal or other serious injury which may not be obvious
-          * Do not give anything by mouth o Do not attempt to make them sit or stand
-          * Do not leave them unattended or in the charge of another child
-      * For needle stick (sharps) injuries:
-      * Encourage wound to bleed. Do not suck.
-      * Wash with soap and water. Dry and apply waterproof dressing o If used/dirty needle, seek advice from doctor
+This includes advice received from GPs or pharmacists.
 
-When medical help arrives, pass on any information available, including
-vomit and any drug samples.
+------------------------------------------------------------------------
 
-No further action, beyond making the situation safe and attempting to
-confiscate harmful drugs or substances, should be taken without
-authorisation from the Supervising Social Worker or an agency manager,
-preferably in consultation with the relevant child's social worker.
-
-## Recording Accidents and Illnesses
-
-First Aid and records of all medicines that have been administered will
-be recorded within the daily recording and the child health monitoring
-form mentioned above; if advice is sought from a General Practitioner or
-pharmacist, carers are supposed to include details of the discussions
-within the summary as confirmation. If an accident occurs, (which
-results in a visit to GP/hospital,) it is recorded within the carer's
-records and on the [accident/illness record
-form](http://eforms.wholisticfostering.co.uk/foster-parent-forms/wffp08-accident-form/)
-that is supplied to all WF Foster Parents.
+📌 **Remember** If in doubt, seek medical help first --- then report.
+Children\'s health and safety must always come before process.

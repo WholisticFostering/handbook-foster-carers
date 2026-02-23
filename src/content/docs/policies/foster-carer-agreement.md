@@ -1,26 +1,33 @@
 ---
-title: Foster Carers Agreement
+title: 🤝 Foster Carers Agreement
 ---
 
 
--   All our carers must have a valid foster carer\'s agreement.
--   We update this annually and review this annually.
--   Contracts are managed through Docracy
+All approved foster carers with Wholistic must have a current Foster
+Carer Agreement in place.
 
-## Underpinning Regulations and Standards
+-   Agreements are reviewed and updated each year.
+-   We manage agreements digitally through Docracy.
 
-The Fostering Services (England) Regulations 2011 regulation 27 requires
-that any individual approved as a foster carer must enter into a written
-agreement (the 'foster care agreement') with the fostering service
-provider, covering the matters specified in Schedule 5.These include:
+## 📜 Legal Framework
 
--    any terms of the foster carer's approval
--    the support and training to be given to the foster carer
--    the procedure for the review of approval of a foster carer
--    the procedure in connection with the placement of children and the
-    matters to be included in any placement plan
--    the arrangements for meeting any legal liabilities of the foster
-    carer arising by reason of a placement
--    the procedure available to foster carers for making complaints and
-    representations
--    the obligations on the foster carer.
+As required under Regulation 27 of the Fostering Services (England)
+Regulations 2011, foster carers must enter into a written agreement that
+covers:
+
+-   The terms of their approval
+-   Support and training arrangements
+-   The review process
+-   Placement procedures and the Placement Plan
+-   Legal liability cover
+-   How to make complaints or raise concerns
+-   The carer\'s duties and responsibilities
+
+These agreements set out mutual expectations to ensure clarity, support,
+and safe, consistent care for children.
+
+## 🔗 Related Policies
+
+-   [📚 Carer Training & Support](policies/training_support)
+-   [🔄 Carer Reviews](policies/review_of_foster_carers)
+-   [🗣️ Complaints & Representations](policies/complaints)

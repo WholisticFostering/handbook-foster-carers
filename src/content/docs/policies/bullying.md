@@ -1,6 +1,7 @@
 ---
-title: Bullying
+title: 🧩 Bullying Policy
 ---
+
 
 Wholistic Fostering is committed to preventing bullying and promoting a
 safe, respectful environment for all children in our care.

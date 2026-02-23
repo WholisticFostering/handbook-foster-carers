@@ -1,105 +1,90 @@
 ---
-title: Staying Put
+title: 🏡 Staying Put Policy
 ---
 
 
-## Aim
+## 🎯 Aim
 
-To provide young people with an opportunity to remain living with their
-foster carers beyond the age of 18 years under a staying put
-arrangement.
+To support young people to remain living with their foster carers after
+turning 18, giving them a more stable and supported transition to
+adulthood.
 
-## Underpinning Regulations and Standards
+## 📚 Legal Framework
 
-\<WRAP center round info 60%\> The Planning Transition to Adulthood for
-Care Leavers Regulations and Guidance 2010 and the Fostering Regulations
-and Guidance 2011 (Children Act 1989) both require local authorities to
-have a Staying Put policy.
+**Children Act 1989** **Fostering Services (England) Regulations 2011**
+**Planning Transition to Adulthood for Care Leavers (2010)** **National
+Minimum Standards (NMS 12.4)**
 
-The Fostering Services National Minimum Standards (standard 12.4)
-requires independent fostering providers to have a policy and practical
-arrangements which enable children to remain with their foster carer(s)
-into legal adulthood, for example so that s/he may develop appropriate
-life skills before being required to move to more independent
-accommodation.
+Staying Put arrangements allow young people to remain in their foster
+home past 18, helping them develop life skills before moving on.
+Independent fostering agencies must have a Staying Put policy and ensure
+foster carers are prepared for this option.
 
-The statutory guidance also states:
+## ✅ Who Can Stay Put?
 
-*'For young people with a stable foster placement, continuing to live in
-their former foster home under a "Staying Put" arrangement can offer a
-transition to independence closer to that experienced by most other
-young people. Local authorities should develop Staying Put policies that
-provide foster carers and young people with information and guidance
-regarding all aspects of continuing living arrangements beyond the young
-person's 18th birthday, including criteria for continuing these
-arrangements beyond 18 and financial and support arrangements. Such
-arrangements are not covered by the 2011 Regulations but fostering
-services should have a policy covering Staying Put arrangements and the
-assessment process for foster carers should prepare them for the
-possibility of continuing to provide support to young people beyond the
-age of 18.'*
+Young people may benefit if they:
 
-\</WRAP\>
+-   Are still in education after turning 18
+-   Have additional needs (e.g. learning disability)
+-   Need more time to prepare for independence
+-   Would be at risk in other settings
 
-## Suitability for Staying Put arrangements
+We believe all young people leaving care deserve the option to remain
+with their carers where appropriate, to avoid rushed transitions and
+poor outcomes.
 
-Young people are most likely to benefit from a Staying Put arrangement
-if they:
+## 📝 Our Approach
 
--   Are continuing a course of education beyond their 18th birthday
--   Are not ready for supported accommodation at 18 years, often due to
-    a learning difficulty
--   Require specialist provision that is not yet available
--   Are at risk of harm or exploitation
+Wholistic Fostering:
 
-However, Wholistic Fostering believe that all care leavers can benefit
-from an opportunity to remain with their former foster carers which
-enables them to experience a transition like that of their peers and
-avoid the negative outcomes associated with leaving care such as social
-exclusion and tenancy breakdown.
+-   Encourages carers to consider Staying Put **before** pathway
+    planning begins
+-   Discusses Staying Put during supervision to avoid late decisions
+-   Supports early planning to reduce anxiety for young people
 
-## Policy
+## 💷 Financial & Legal Arrangements
 
-Wholistic Fostering encourages foster carers to consider whether they
-are able to offer Staying Put arrangements for young people before the
-Pathway Planning process begins. Decision making at this stage avoids
-uncertainty for the young person during the Pathway Planning process,
-particularly when the young person's wish is to remain in placement, and
-enables alternative accommodation options to be explored as early as
-possible.
+-   Staying Put may affect carers\' **tax**, **benefits**, and
+    **availability for new placements**
+-   Carers are supported to understand these implications in advance
+-   If the young person meets their **Local Authority's criteria**, WF
+    will help negotiate support and funding
+-   Some Staying Put arrangements may be **private agreements** between
+    the carer and the Local Authority
 
-Staying Put has implications for foster carers in terms of payments, tax
-liabilities and availability for continued fostering and Wholistic
-Fostering encourages foster carers to explore these implications as
-early as possible and discuss their ability to offer this opportunity to
-young people with their supervising social worker before the Pathway
-Planning process begins.
+## 🎓 Education and Staying Put
 
-When foster carers are able to offer Staying Put arrangements, and when
-the young person wishes to remain living with their foster carer after
-the age of 18 years, and when the young person meets their Local
-Authority's criteria for Staying Put arrangements, Wholistic Fostering
-will negotiate fees with the Local Authority based on the young person's
-continued support needs. Alternatively, the Staying Put arrangements can
-be made as a private arrangement between the foster carer and Local
-Authority.
+If a young person is in education beyond age 18, we will request the
+Local Authority maintain the Staying Put arrangement **until their
+course ends**, to protect their chances of success.
 
-When a young person's course of education extends beyond their 18th
-birthday, Wholistic Fostering will request that the Local Authority
-continues the placement on a Staying Put arrangement until the end of
-the course in order to safeguard the young person's educational
-attainment and future life chances.
+## 🧰 Ongoing Support
 
-Wholistic Fostering will continue to offer support and guidance to young
-people under Staying Put arrangements, principally through the young
-peoples website ( where we will provide age-appropriate resources and
-advice for young people developing independent living skills ). Foster
-carers will be expected to continue to assist the young person in
-developing their independence skills during the Staying Put arrangement
-and attend recommended training as necessary (see Transition to
-Adulthood and Leaving Care Policy).
+Wholistic Fostering will continue to offer:
 
-Young people remaining with their former Foster Carers under a Staying
-Put arrangement will require a DBS check if the Foster Carer is
-continuing to offer foster placements. Wholistic Fostering will arrange
-this DBS check.
+-   Guidance via the **young people's website** (independence tools,
+    life skills, etc.)
+-   Ongoing support to carers, including training
+-   Support with DBS checks for young people still living in the foster
+    home (if other children are placed)
+
+Carers remain responsible for helping the young person:
+
+-   Build independence
+-   Learn essential life skills
+-   Engage with transition planning
+
+See also: [Transition to Adulthood and Leaving Care
+Policy](policies/preparing-young-people-for-independence-and-adult-life)
+🧳
+
+## 🧾 Summary
+
+Staying Put is about:
+
+-   **Choice** -- young people should not have to leave their home when
+    they turn 18
+-   **Stability** -- continuing relationships where safe and positive
+-   **Support** -- helping young people move on in their own time
+
+Speak with your **Supervising Social Worker** for more information.

@@ -1,70 +1,90 @@
 ---
-title: Violent Extremism and Radicalisation Policy
+title: 🛡️ Violent Extremism and Radicalisation Policy
 ---
 
 
-Communities and local authorities have a key role to play in helping to
-develop a sense of belonging.
+## 📌 Purpose
 
-The threat is not just from radical religious groups such as 'Islamic
-State' but also from radical 'far right' and other political groups who
-may attempt to radicalise children and young people.
+This policy sets out how Wholistic Fostering identifies, prevents, and
+responds to concerns about children and young people being exposed to
+violent extremism or radicalisation.
 
-Below you will find a number of guidance documents and resources to help
-you protect children and young people from Violent Extremism and
-Radicalisation.
+The threat comes from a wide range of sources --- including religious
+extremism (such as 'Islamic State'), far-right groups, and other
+political ideologies. Protecting children from such risks is a key
+safeguarding duty.
 
-[Revised Prevent Duty Guidance: for England and
-Wales](https://www.gov.uk/government/publications/prevent-duty-guidance)
+## ⚖️ Legal Framework
 
-The Counter terrorism and Security Act 2015 places a duty on certain
-bodies (listed below) to in their duties have due regard to the need to
-prevent people from being drawn into terrorism.
+This policy is based on the **Counter-Terrorism and Security Act 2015**,
+which introduced the **Prevent Duty**. Under this duty, specified
+agencies must have \"due regard to the need to prevent people from being
+drawn into terrorism.\"
 
-The aim of the Prevent strategy is to reduce the threat to the UK from
-terrorism by stopping people becoming terrorists or supporting
-terrorism.
+Agencies covered by the duty include:
 
-Bodies specified in Duty.
+-   Local Authorities
+-   Schools and registered childcare providers
+-   Health Services
+-   Prisons and Probation
+-   The Police
 
-      * Local Authorities
-      * Schools and registered childcare providers
-      * Health Sector
-      * Prisons and Probation
-      * The Police
+**Read more:**
 
-\*\*Working in Partnership \*\*
+-   [Revised Prevent Duty Guidance: England and
+    Wales](https://www.gov.uk/government/publications/prevent-duty-guidance)
 
-Prevent work depends on effective partnership. To demonstrate effective
-compliance with the duty, specified authorities must demonstrate
-partnerships with local Prevent co-ordinators, the police, local
-authorities, and co-ordination through existing multi agency forums.
+## 🤝 Working in Partnership
 
-\*\*Capabilities \*\*
+Preventing radicalisation depends on strong multi-agency partnerships.
+All staff and carers must cooperate with:
 
-      * Staff and foster carer need to understand what radicalisation means and why people may be vulnerable to being drawn into terrorism as a consequence of it. The need to be aware of what we mean by the term “extremism” and the relationship between extremism and terrorism.
+-   Local Prevent coordinators
+-   Police and Local Authorities
+-   Multi-agency safeguarding forums
 
-      * Staff and foster carers need to know what measures are available to prevent people from becoming drawn into terrorism and how to challenge the extremist ideology that can be associated with it.
+## 📚 Understanding the Risk
 
-## What should i do if i have a concern?
+All staff and foster carers must:
 
-If you have concerns that a child or young person may be vulnerable to
-violent extremism or radicalisation you should seek advice from your
-supervising social worker or the Registered Manager and follow the
-procedures in relation to notification of safeguarding issues. If you
-feel that there is an immediate danger to the life of the individual or
-others then call 999.
+-   Understand what **radicalisation** means and why people may be
+    vulnerable to it.
+-   Recognise that **extremism** refers to vocal or active opposition to
+    fundamental British values.
+-   Know the link between **extremism and terrorism**.
+-   Be able to spot early signs and concerns, and know how to report
+    them.
+-   Understand what action can be taken to prevent radicalisation.
 
-You can also report suspected online terrorist content by following
-[terrorist](https://www.gov.uk/report-terrorism)[material\'](https://www.gov.uk/report-terrorism)
-and refer any content of concern directly to social media platforms
-details of how to do this can be found at [UK Safer Internet Centre
-website](http://www.saferinternet.org.uk/advice-and-resources/teachers-and-professionals/safety-features)
+## 🚨 What to Do if You\'re Worried
 
-## Further information about extremism and radicalisation for practitioners:
+If you suspect a child is vulnerable to radicalisation:
 
-The government has launched the
+-   **Speak to your Supervising Social Worker or the Registered Manager
+    immediately**.
+-   **Follow safeguarding notification procedures**.
+-   If there is **immediate danger to life or safety**, **call 999**.
 
-[Educate Against Hate](http://www.educateagainsthate.com/) website
-giving parents, teachers and school leaders practical advice on
-protecting children from extremism and radicalisation.
+You can also:
+
+-   Report online terrorist content here:
+
+```{=html}
+<!-- -->
+```
+      [[https://www.gov.uk/report-terrorism|gov.uk/report-terrorism]]
+    * Report social media content via:
+      [[http://www.saferinternet.org.uk/advice-and-resources/teachers-and-professionals/safety-features|UK Safer Internet Centre]]
+
+## 📖 Further Resources
+
+-   [Educate Against Hate](http://www.educateagainsthate.com/) --
+    Practical advice for carers, parents, and professionals on
+    recognising and preventing extremism.
+
+## ✅ Summary
+
+We all have a role to play in protecting children from the harm of
+radicalisation. Wholistic Fostering expects all staff and carers to
+remain alert, informed, and ready to take swift action to protect
+children from extremist influences.

@@ -1,108 +1,77 @@
 ---
-title: Exemptions and Extensions
+title: 🔄 Exemptions & Extensions
 ---
 
 
-## - Usual Fostering Limit on Number of Children
+## 📘 Purpose
 
-A person may not foster more than three children in each foster home
-except where all children are siblings.
+This policy explains when and how foster carers may be allowed to care
+for more children than usual (exemptions), or take children outside
+their standard approval (extensions). All decisions prioritise child
+welfare and are in line with fostering regulations.
 
-A child may be placed with foster carers for up to 6 days without
-affecting this limit.
+## 👨‍👩‍👧 Usual Fostering Limit
 
-In all other circumstances, foster carers may only exceed this number if
-an exemption has been agreed.
+By law, carers must not foster more than **three children** in one
+home---unless all are **siblings**.
 
-## - Reasons why an Exemption may be considered
+Children placed for **up to 6 days** do not count toward this limit. To
+exceed the limit longer term, an **exemption** is required.
 
-Applications will usually be made because of the following exceptional
-circumstances:
+## ✅ When an Exemption May Be Needed
 
-      * a. The child concerned was previously placed with the foster carers and his or her placement elsewhere has disrupted
-      * b. The foster carers have special skills to meet the child's needs which are not available elsewhere
-      * c. The placement of the child over the limit is the most appropriate way of meeting the child's needs arising from disability, race, religion, language and/or culture
-      * d. The placement is required to keep siblings together
+An exemption may be considered where:
 
-Applications can only be made with the agreement of the foster carers
-concerned.
+-   A child previously placed has had a placement breakdown
+-   Carers have specialist skills that meet the child's unique needs
+-   It\'s important to keep **siblings together**
+-   A cultural/religious/language match is best met with these carers
 
-When considering an exemption the following factors should be regarded
+The carers **must agree** to the exemption request.
 
-      * a. The number, ages and circumstances of the children concerned
-      * b. The arrangements proposed for the care and accommodation of the children concerned
-      * c. The relationship between the foster carers and the children concerned
-      * d. The period of time over which the placement is likely to last
-      * e. The likely effect on the children concerned and any other children living in the household
-      * f. The foster carers' capacity to provide sufficient care for all the children in the placement.
-      * g. The need to safeguard and promote the welfare of the fostered children / young people and any other children / young people who live in the foster home.
+Key considerations:
 
-## - The Process for Exemptions
+-   Number, ages, and needs of all children in the home
+-   Impact on existing placements
+-   Duration of the proposed exemption
+-   Ability of the carers to meet all children\'s needs
+-   Overall safety and welfare of all children in the household
 
-### - Planned Exemptions
+## 📝 Planned Exemptions: The Process
 
-The need for an exemption will be identified at the point when the
-fostering service is seeking to identify a suitable placement for a
-child or children, i.e. where a foster carer is identified as the most
-appropriate option to meet the child\'s needs, and this is agreed by the
-Supervising Social Worker for the carers and the foster carer.
+1\. Identified when matching a child with carers. 2. SSW and carer agree
+in principle. 3. Social workers for **other children in placement** are
+consulted. 4. A written application is made by the SSW or Agency
+Manager, with input from the child's social worker. 5. A **written
+decision** is made, recorded, and shared with carers. 6. Time limits may
+be set, with conditions. 7. The exemption is reported to the **next
+Fostering Panel** for ratification.
 
-The social worker(s) to any other child in the placement should be
-consulted in order to seek their views on any impact (positive or
-negative) from an exemption being granted.
+## 🚨 Emergency Exemptions
 
-All applications for plan for approval. The written application will be
-prepared by the Supervising Social Worker or the Agency Manager in
-conjunction with the relevant child\'s social worker.
+For short-term emergencies, a placement over the usual limit can last up
+to **6 days** without prior exemption.
 
-The decision whether or not to grant an exemption will be recorded in
-writing, together with reasons. Any exemption will be specific to a
-child or children and can be subject to conditions. The foster carer
-will be notified in writing of the decision.
+Steps:
 
-Upon the granting of an exemption, a time limit will be specified and an
-exemption can only extend beyond that date if the authorised.
+-   Apply to Panel Chair/Vice-Chair ASAP
+-   Provide a written decision and reasoning
+-   Place decision on:
+    -   Child's file
+    -   Carer's file
+    -   Send copy to foster carers
+-   Present at next Panel meeting
 
-The decision must be recorded.
+## 📆 Monitoring & Review
 
-The decision will be reported to the next available Fostering Panel for
-ratification.
+-   All exemptions are monitored by the **Fostering Panel**
+-   The Agency is responsible for formally **ending** exemptions when no
+    longer needed
 
-### - Emergency Exemptions
+## ➕ Extensions to Approval Terms
 
-A child can only be placed in a foster home above the usual limit for up
-to 6 days without specific authority to exempt the foster home from the
-limit.
+If a child's placement fits within the usual limit but outside of the
+carer's current **approval terms**, an **extension** is required.
 
-An application for exemption must be made to the Chair of the Fostering
-Panel or the Vice Chair as soon as practicable thereafter and any such
-exemption needs to be presented to the next available Fostering Panel,
-as with planned exemptions.
-
-An interim decision may be necessary on an emergency basis pending full
-consideration of the exemption.
-
-Any emergency decisions to grant an exemption must be confirmed in
-writing and copies of the decision, together with the reasons, must be
-placed on the child\'s file and the foster carer\'s case record. A copy
-must also be sent to the foster carer.
-
-The decision must be recorded.
-
-## - Review and Monitoring of Exemptions
-
-The Fostering Panel will be responsible for the ongoing monitoring of
-the exemption.
-
-The Fostering Service is responsible for recording the ending the
-exemption when the exemption is no longer required.
-
-## - Extension to Foster Carer Approval
-
-Where a foster placement is identified for a child and would be within
-the usual fostering limit but outside of the foster carer\'s terms of
-approval, an extension to their approval is required.
-
-The same principles and processes apply to extensions as set out above
-for exemptions and all extensions must be reported to the Fostering
-Panel.
+Extensions follow the same steps as exemptions and are also reported to
+the Fostering Panel.

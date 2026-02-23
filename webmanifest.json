@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "id": "starlight-pwa",
-  "name": "Starlight PWA",
-  "short_name": "Starlight PWA",
-  "description": "Example PWA for Starlight using Vite-PWA",
+  "name": "Carers Handbook",
+  "short_name": "Carers Handbook",
+  "description": "A Digital Handbook for Wholistic Foster Carers",
   "orientation": "any",
   "display": "fullscreen",
   "theme_color": "#ff5d01",

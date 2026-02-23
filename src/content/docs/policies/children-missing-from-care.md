@@ -1,138 +1,146 @@
 ---
-title: Children missing from care
+title: 🚨 Children Missing from Care
 ---
 
 
-## Scope
+## 📘 Scope
 
-This chapter explains how carers and staff should deal with children
-when they go missing. This chapter should be read in conjunction with
-the Local Safeguarding Children Board Inter Agency Safeguarding
+This chapter outlines how foster carers and staff should respond when a
+child goes missing from care. It must be read in conjunction with your
+Local Safeguarding Children Board's (LSCB) Inter-Agency Safeguarding
 Procedures and Protocols.
 
-This chapter is compliant with the Fostering Services National Minimum
-Standards and Regulations 2011, Standard 5 Missing From Care
+It reflects the Fostering Services National Minimum Standards and
+Regulations 2011 -- Standard 5: \*Missing from Care\*.
 
-## Introduction
+## 🧭 Introduction
 
-Foster carers will work with children in the foster home to help them to
-feel safe enough in to stay in the placement. Foster carers will work
-positively with children to prevent them running away.
+Wholistic Fostering is committed to keeping children safe. Our foster
+carers work proactively with young people to build trust and prevent
+running away incidents.
 
-WF will always follow the guidance contained within in the Local
-Safeguarding Children Board Procedures and Protocols for Young Runaways
-and Children Missing from Home and Care.
+Carers must follow the local LSCB's procedures for young runaways and
+missing children. They are expected to act preventively and supportively
+--- using education, understanding and partnership with police and
+professionals.
 
-A preventative, educative approach is expected from foster carers
-encouraging them to deal with situations where the missing child's
-whereabouts are known and to work alongside the Police.
+After any missing episode, the child must be seen alone by an
+independent person for a **return home interview**, and a safety
+strategy must be reviewed with the placing authority.
 
-On their return the child must be seen alone by an independent person
-and a return home interview undertaken. The foster carer must work with
-the placing authority (child's social worker) and WF to create a
-strategy to keep the child safe in future.
+## ❓ What Does "Missing" Mean?
 
-## Definition of Missing Child
+A child may be considered missing when:
 
-The terms 'Missing' or 'Absconding' means:
+-   They are away from their placement and their whereabouts are
+    unknown.
+-   They are absent without agreement, but their location is suspected.
+-   They are remanded or lawfully detained in care and leave the
+    placement without authority.
 
-      * A child who is absent from his/her placement and whose whereabouts are unknown. This includes a child who may have been abducted.
-      * A child who is absent from his/her placement without the agreement of the carers but whose whereabouts are known or suspected.
-      * A child who is Remanded or otherwise Lawfully Detained in Local Authority Accommodation and is absent without Authority or Missing from the placement.
+## 🛡️ Prevention & Planning
 
-## Planning and Prevention
+From the start of any placement, carers and staff must assess the
+likelihood of a child going missing and agree steps to reduce that risk.
+This should be discussed during:
 
-As part of the referral, placement and ongoing planning process,
-consideration must be given to the risk of the child becoming missing.
-If there is a risk, a plan must be drawn up to reduce or prevent it. WF
-will ensue that this is discussed and developed at placement planning
-meetings and reviewed at each LAC review.
+-   Referral and placement planning.
+-   Placement Planning Meetings.
+-   LAC Reviews.
 
-Foster carers should know when to try to prevent a child or young person
-leaving the home and should do so through dialogue, but they should not
-try to restrain the child should they be intent on leaving, or in any
-other circumstances, unless it is necessary to prevent injury to the
-child or others, or serious damage to property.
+Carers should:
 
-On a day to day basis, carers should be alert to signs or indications
-that a child may be likely to \'run away\' or become missing. If carers
-suspect that this may happen, they should take any actions already
-agreed with the Supervising Social Worker and the child's social worker,
-or do what they reasonably and safely can to reduce or prevent the child
-from leaving - this includes circumstances where a child is refusing to
-return to the home.
+-   Engage the child in open, daily dialogue.
+-   Never restrain a child unless necessary to prevent harm.
+-   Alert their Supervising Social Worker if risks increase.
+-   Call the out-of-hours worker if needed.
+-   In emergencies (e.g. violence or threats), contact the **police
+    first**, then WF staff.
 
-If the risk increases, they should contact the Supervising Social Worker
-or, if out of hours, the on-call Social Worker for advice.
+## 🚫 If a Child Goes Missing
 
-If there is a serious risk e.g. the child is behaving in a violent
-manner or threatening to damage property, the carer should contact the
-Police, then contact the Supervising Social Worker at the first
-opportunity.
+Carers should take the following steps:
 
-## If the Child is missing
+**1. Immediate Search**
 
-In the event of a child being absent without permission the foster carer
-should:
+-   Attempt to contact the child.
+-   Call known contacts (e.g. friends, school, relatives).
+-   Check local hangouts, parks, shops.
 
-      * Make attempts to locate the child i.e. telephone all known contacts of the said child e.g. their school, friends, parental addresses and shops and if able to visit all known places they may be i.e. playgrounds, friend’s homes, local areas where groups of children congregate.
-      * If the child is not found within a reasonable time frame: one hour for under 12's and two hours for over 12's (unless stated otherwise in their Placement Agreement/Placement Plan), report the child missing to the local Police and the child's Local Authority (social worker/Duty/EDT). It is the carer's responsibility to ensure they have these numbers available to them.
-      * Complete a [[http://eforms.wholisticfostering.co.uk/foster-parent-forms/wffp07-child-missing-from-placement-notification/|Child Missing from Placement Record]] detailing the date, time, and description of the circumstances prior to the child absconding, note all people notified and required action. Note the time the young person returned and circumstances. Note any reasons the young person gave for being absent.
-      * Send the Report to their Supervising Social Worker or the Fostering Service Manager as a matter of urgency.
+**2. Report the Child Missing**
 
-At no time should the foster carer pass any information to the press.
-All information should only be shared between the Local Authority,
-Police and the Fostering Service Manager.
+-   If the child is not located within:
+    1.  1 hour (under 12s)
+    2.  2 hours (over 12s)
+-   Or as per their Placement Plan:
+    1.  Report them to the **Police**
+    2.  Notify the child's **Social Worker / Duty Team / EDT**
 
-The Fostering Service Manager will arrange to log this information for
-monitoring purposes. A copy of the report will be retained on the
-child's file and a copy forwarded to the child's social worker. A copy
-of the report will also be sent to Regulatory Authority in accordance
-with Schedule 7 of the Fostering Service Regulations (see [Notification
-Procedure](/procedures/notifications_of_significant_events_to_other_agencies)).
+**3. Record the Incident**
 
-It will be the responsibility of the child\'s social worker or Local
-Authority EDT to inform the child's parents where appropriate.
+-   Complete the WF online form:
 
-Once the child has been reported missing, the police will interview the
-foster carer to obtain relevant information including the child\'s
-details, name date of birth, hair/skin/eye colour, distinguishing
-features, any disabilities, clothing and jewellery believed to be worn.
-A recent photograph may be required. Carers should be aware that the
-police have the right to search their property and may do so to
-ascertain that the child is still missing and not just hiding.
+```{=html}
+<!-- -->
+```
+      [[http://eforms.wholisticfostering.co.uk/foster-parent-forms/wffp07-child-missing-from-placement-notification/|Child Missing from Placement Record]]
+    * Include: time, description, actions taken, notifications made, and reasons given by the child on return.
+    * Send to your **Supervising Social Worker** or **Fostering Service Manager** promptly.
 
-The foster carer should take the following steps when a child returns
-after an unauthorised absence:
+**4. Confidentiality**
 
-      * Assess the child’s immediate needs i.e. offer something to eat, does the child need a shower/bath and a clean change of clothes? Is there any need for medical treatment?
-      * Explain to the child that they do not want them to go missing but they will be welcomed back to the household.
-      * Try to gain an insight into the young person’s absence and what can be done to minimise its recurrence, although it is acknowledged that the point at which the child returns may or may not be the best time to try to discuss the reasons why the child has gone missing.
-      * Inform all relevant professionals i.e. police (unless they returned the child),
-      * Fostering Service Manager and the child’s Local Authority that the child has returned.
-      * A missing from care return interview will be completed with the child or young person.
+-   Do not speak to the press.
+-   Share information only with:
+    1.  Local Authority
+    2.  Police
+    3.  Fostering Service Manager
 
-Should there be any suspicion that the unauthorised absence is linked to
-an abusive incident; the Child Protection Referral Procedure should be
-invoked.
+## 🧾 On the Child's Return
 
-# A Safe and Well Check
+Carers should:
 
-A safe and well check should be carried out by the police as soon as
-possible after a child who has been reported missing has been found.
+-   Meet immediate needs (food, clothes, hygiene, rest).
+-   Offer reassurance --- they are welcome back.
+-   Gently explore why they went missing (only if appropriate).
+-   Notify:
+    1.  Police (unless they returned the child)
+    2.  WF Fostering Manager
+    3.  Local Authority / Social Worker
 
-# Return Interview
+```{=html}
+<!-- -->
+```
+-   Support arrangements for a **Return Interview** by an independent
+    person (not the carer or SSW).
 
-\<font 16px/arial;;#000000;;#ffffff\>On the child\'s return, as soon as
-practicable, an independent person //Designation Required // (NOT the
-Supervising Social Worker or the foster parent), will interview the
-child and complete a Return Interview.\</font\>
+If the absence may relate to abuse, invoke the [🛡️ Child Protection
+Procedure](/policies/child-protection).
 
-Here is a link to a flowchart showing the roles and responsibilities
-when a child/young person goes missing.
+## 🔎 Safe & Well Checks
 
-<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/271820/Flowchart_when_a_child_goes_missing_from_care.pdf>
+Police should carry out a **Safe & Well Check** promptly after a child
+returns. This is to ensure they are not at risk of harm and understand
+what happened.
 
-Government Missing from home guidance.
+## 💬 Return Interview
 
-<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/208528/Statutory_guidance_on_children_who_run_away_or_go_missing_from_home_or_care_consultation_-_final.pdf>
+A **Return Interview** must be arranged by the Local Authority. It
+should be:
+
+-   Conducted by an **independent person** (not the foster carer or
+    SSW).
+-   Focused on understanding the child's reasons for leaving and how to
+    reduce future risk.
+
+[📄 Flowchart: Roles & responsibilities when a child goes
+missing](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/271820/Flowchart_when_a_child_goes_missing_from_care.pdf)
+
+[📘 Government Guidance: Children who run away or go
+missing](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/208528/Statutory_guidance_on_children_who_run_away_or_go_missing_from_home_or_care_consultation_-_final.pdf)
+
+## 📌 Related Policies
+
+-   [🛡️ Child Protection Policy](/policies/child-protection)
+-   [🧷 Safeguarding & Duty of Care](/policies/safeguarding)
+-   [📢 Significant Events Notification
+    Procedure](/policies/notifications_of_significant_events_to_other_agencies)

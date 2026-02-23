@@ -1,88 +1,67 @@
 ---
-title: Confidentiality
+title: 🔐 Confidentiality Policy
 ---
 
 
-## - Scope
+## 📘 Scope
 
-This chapter is compliant with the Fostering Services National Minimum
-Standards and Regulations 2011, Standard 26 Records.
+This policy supports Standard 26 of the Fostering Services National
+Minimum Standards and Regulations 2011: **Records**. It applies to all
+foster carers, staff, volunteers and professionals working with
+Wholistic Fostering (WF).
 
-## - Handling confidential information
+## 🔏 What Is Confidential Information?
 
-WF assumes any information that identifies individuals personally and is
-not already in the public domain is to be treated as confidential
-information and the data protection laws will therefore apply.
+Confidential information is any personal data about individuals that is
+not already public. All such information must be protected and handled
+in line with UK data protection laws.
 
-WF staff and carers handling of information must ensure that:
+## 🤝 Our Commitment
 
-      * It is only shared with individuals authorised to have access to it – see Section 2, When it may be appropriate to share confidential information
-      * They promote, support and protect the privacy, dignity and rights of children and young people
-      * They comply with best practice
-      * They conform with the law
+WF is committed to safeguarding private information. Everyone working
+with us must:
 
-Each member of staff, foster carer, volunteer or independent worker will
-be expected to sign a confidentiality statement, a copy of which will be
-retained in their file.
+-   Share information only with those authorised
+-   Protect the dignity and rights of children and families
+-   Follow legal and best practice standards
+-   Sign a confidentiality agreement (stored in their personnel file)
 
-## - When it may be appropriate to share confidential information
+## 🔄 When Sharing May Be Necessary
 
-It is generally only appropriate to share confidential information with
-others if informed consent has been given to its disclosure by the
-person to whom it relates.
+Information can usually only be shared with **informed consent**.
+However, **confidential information may be shared without consent** in
+these situations:
 
-In some situations, however, WF will be required by law to share
-information, for example, when a court makes an order for certain
-information or case files to be brought before the court. These
-situations are relatively unusual.
+-   A child is suffering or at risk of significant harm
+-   An adult is at risk of serious harm
+-   It\'s necessary to prevent serious crime
+-   A court order demands disclosure
 
-However, there may be situations which arise when working with children
-and families where the sharing of confidential information without
-consent is appropriate. These are described in the paragraphs below.
+Before sharing, consider:
 
-Sharing information amongst those working with children and their
-families is essential. In many cases it is only when information from a
-range of sources is put together that a child can be seen to be at risk
-of Significant Harm. Where there are concerns that a child may be at
-risk of Significant Harm, it is essential that staff members and carers
-within WF understand when they can share confidential information
-lawfully for this purpose.
+-   ⚖️ **Necessity** -- Is sharing essential to protect someone?
+-   ⚖️ **Proportionality** -- Does the need to protect override the need
+    to keep it private?
 
-The key factors in deciding whether or not to share confidential
-information are necessity and proportionality, i.e. whether the proposed
-sharing is likely to make an effective contribution to preventing the
-risk and whether the public interest in sharing information overrides
-the interest in maintaining confidentiality.
+Information should only be shared on a **need-to-know basis**, and only
+with professionals involved in the child's care and safety.
 
-It is not possible to give guidance to cover every circumstance in which
-sharing of confidential information without consent will be justified.
-It is possible however to identify some circumstances in which sharing
-confidential information without consent will normally be justified in
-the public interest. These are:
+## ⚠️ Breaches of Confidentiality
 
-      * When there is evidence that the child is suffering or is at risk of suffering Significant Harm; or
-      * Where there is reasonable cause to believe that a child may be suffering or at risk of Significant Harm; or
-      * To prevent Significant Harm arising to children or serious harm to adults, including through the prevention, detection and prosecution of serious crime, i.e. any crime which causes or is likely to cause Significant Harm to a child or serious harm to an adult.
+A breach happens when:
 
-Where there is a clear risk of Significant Harm to a child, the public
-interest test will almost certainly be satisfied.
+-   Information is shared without consent or justification
+-   Data is accessed or shared by someone not authorised
 
-## - Breaches of Confidentiality
+Confidentiality breaches may result in:
 
-Confidence is breached where the sharing of confidential information is
-not authorised by the person who provided it or, if about another
-person, by the person to whom it relates or where there was no
-justification for sharing the information as set out in Section 2 above.
+-   📌 Review of carer approval
+-   📌 Disciplinary action for staff
+-   📌 Termination of volunteer roles
 
-To minimise \'accidental\' breaches of confidentiality, confidential
-information must only be shared with others within WF for genuine
-purposes and on a need to know basis. Confidential information should
-not be shared with members of foster carers' families who live outside
-the household.
+Carers must not share confidential information with family or friends
+outside the fostering household.
 
-No person working within the agency shall knowingly misuse any
-information or allow other to do so.
+## 📎 Related Policies
 
-Breaches of confidentiality will be regarded seriously and may result in
-action being taken for example a review of approval for foster carers,
-disciplinary action for staff.
+-   [Child Protection Policy](/policies/child-protection)

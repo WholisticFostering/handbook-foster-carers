@@ -20,18 +20,31 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Emergency',
+					label: 'Start Here',
 					items: [
+						{ label: 'Getting Started', slug: 'get-started' },
+						{ label: 'The Foster Carer', slug: 'guides/the-foster-carer/intro' },
+						{ label: 'The Fostered Child', slug: 'guides/the-foster-child/intro' },
+						{ label: 'The Fostering Task', slug: 'guides/the-fostering-task/intro' },
+						{ label: 'Allowance Guidelines', slug: 'guides/allowance-guidelines/intro' },
+					],
+				},
+				{
+					label: 'Emergency',
+					collapsed: true,
+					autogenerate: { directory: 'sections/emergency' },
+
+					// items: [
 						
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Introduction', slug: 'sections/emergency/intro' },
-						{ label: 'Emergency contacts (24/7)', slug: 'sections/emergency/contact-numbers' },
-						{ label: 'What to do if a child discloses abuse', slug: 'sections/emergency/disclosure' },
-						{ label: 'Missing from home procedure', slug: 'sections/emergency/missing-child' },
-						{ label: 'Immediate safeguarding concerns', slug: 'sections/emergency/concerns' },
-						{ label: 'Serious injury or medical emergency', slug: 'sections/emergency/serious-medical-emergency' },
-						{ label: 'Allegation made against you', slug: 'sections/emergency/allegation-against-me' },
-						{ label: 'Police involvement guidance', slug: 'sections/emergency/police-involvement' },
+						// { label: 'Introduction', slug: 'sections/emergency/intro' },
+						// { label: 'Emergency contacts (24/7)', slug: 'sections/emergency/contact-numbers' },
+						// { label: 'What to do if a child discloses abuse', slug: 'sections/emergency/disclosure' },
+						// { label: 'Missing from home procedure', slug: 'sections/emergency/missing-child' },
+						// { label: 'Immediate safeguarding concerns', slug: 'sections/emergency/concerns' },
+						// { label: 'Serious injury or medical emergency', slug: 'sections/emergency/serious-medical-emergency' },
+						// { label: 'Allegation made against you', slug: 'sections/emergency/allegation-against-me' },
+						// { label: 'Police involvement guidance', slug: 'sections/emergency/police-involvement' },
 						// { label: 'Introduction', slug: 'sections/emergency/intro' },
 						// { label: 'Alcohol, Drugs & Solvents', slug: 'sections/emergency/alcohol-drugs-and-solvents' },
 						// { label: 'Allegations', slug: 'sections/emergency/allegations-against-staff-carers' },
@@ -45,29 +58,18 @@ export default defineConfig({
 						// { label: 'Monitoring & Notifications', slug: 'sections/emergency/allegations-against-staff-carers' },
 						// { label: 'Out-of-hours Support', slug: 'sections/emergency/allegations-against-staff-carers' },
 						// { label: 'Personal Care and Relationships', slug: 'sections/emergency/allegations-against-staff-carers' },
-					],
+					// ],
+						
+
 				},
 				{
 					label: 'Safeguarding',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						// Types of abuse
-						{ label: 'Types of abuse', slug: 'sections/safeguarding/types-of-abuse' },
-						// Recording concerns correctly
-						{ label: 'Recording concerns correctly', slug: 'sections/safeguarding/recording-concerns' },
-						// Escalation process
-						{ label: 'Escalation process', slug: 'sections/safeguarding/escalation-process' },
-						// Whistleblowing
-						{ label: 'Whistleblowing', slug: 'sections/safeguarding/whistleblowing' },
-						// Safer care policies
-						{ label: 'Safer care policies', slug: 'sections/safeguarding/safer-care-policies' },
-						// Managing allegations
-						{ label: 'Managing allegations', slug: 'sections/safeguarding/managing-allegations' },
-						
-					],
+					collapsed: true,
+					autogenerate: { directory: 'sections/safeguarding' },
 				},
 				{
 					label: 'Daily Care',
+					collapsed: true,
 					items: [
 						{ label: 'Behaviour support', slug: 'sections/daily-care/behaviour-support' },
 						{ label: 'Building attachment', slug: 'sections/daily-care/building-attachment' },
@@ -80,6 +82,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Health',
+					collapsed: true,
 					items: [
 						{ label: 'Consent for medical treatment', slug: 'sections/health/consent-medical-treatment' },
 						{ label: 'Medication storage & recording', slug: 'sections/health/medication-storage-recording' },
@@ -90,6 +93,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Education',
+					collapsed: true,
 					items: [
 						{ label: 'Supporting school attendance', slug: 'sections/education/supporting-school-attendance' },
 						{ label: 'PEP (Personal Education Plan)', slug: 'sections/education/personal-education-plan' },
@@ -115,18 +119,18 @@ export default defineConfig({
 				},					
 				{
 					label: 'Reference',
+					collapsed: true,
 					autogenerate: { directory: 'reference' },
 				},
 				{
 					label: 'Policies',
+					collapsed: true,
 					autogenerate: { directory: 'policies' },
 				},
 			],
 			components: {
 				Head: './src/components/Head.astro',
 				Search: './src/components/Search.astro',
-				// Footer: "./src/components/CustomFooter.astro",
-				Footer: "./src/components/FooterWrapper.astro",
 						}
 		}),
 		AstroPWA({
