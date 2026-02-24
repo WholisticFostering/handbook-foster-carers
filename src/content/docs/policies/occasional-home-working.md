@@ -1,5 +1,6 @@
 ---
-title: 🏠 Occasional Working from Home
+title: 📋 Occasional Working from Home Policy
+lastUpdated: 2025-06-24
 ---
 
 

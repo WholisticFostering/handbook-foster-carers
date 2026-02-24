@@ -1,5 +1,5 @@
 ---
-title: 🌱 Wholistic Fostering -- Foster Carers Charter
+title: Foster Carers Charter
 ---
 
 

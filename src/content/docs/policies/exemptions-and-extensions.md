@@ -1,5 +1,6 @@
 ---
-title: 🔄 Exemptions & Extensions
+title: 📋 Exemptions & Extensions Policy
+lastUpdated: 2025-06-27
 ---
 
 

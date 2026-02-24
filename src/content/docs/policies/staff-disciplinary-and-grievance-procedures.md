@@ -1,5 +1,6 @@
 ---
-title: ⚖️ Staff Disciplinary & Grievance Procedures
+title: 📋 Staff Disciplinary & Grievance Policy
+lastUpdated: 2025-07-18
 ---
 
 

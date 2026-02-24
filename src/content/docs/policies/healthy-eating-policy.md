@@ -1,5 +1,6 @@
 ---
-title: 🥦 Healthy Eating Policy
+title: 📋 Healthy Eating Policy
+lastUpdated: 2025-07-26
 ---
 
 

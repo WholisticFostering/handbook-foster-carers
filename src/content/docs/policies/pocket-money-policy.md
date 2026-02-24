@@ -1,5 +1,6 @@
 ---
-title: 💰 Pocket Money and Savings Policy
+title: 📋 Pocket Money and Savings Policy
+lastUpdated: 2025-07-09
 ---
 
 

@@ -2,8 +2,6 @@
 title: Allowance Guidelines
 ---
 
-![Foster Carer with Child](../../../../assets/svg/icons/house-money.svg)
-
 This guide explains how fostering allowances work.
 
 It covers:

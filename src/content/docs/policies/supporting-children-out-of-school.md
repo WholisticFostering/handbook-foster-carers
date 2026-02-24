@@ -1,5 +1,6 @@
 ---
-title: 📘 Supporting Children Out of School
+title: 📋 Supporting Children Out of School Policy
+lastUpdated: 2025-07-03
 ---
 
 

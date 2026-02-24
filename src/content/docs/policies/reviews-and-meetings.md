@@ -1,10 +1,11 @@
 ---
-title: 📝 Reviews & Meetings
+title: 📋 Reviews & Meetings Policy
+lastUpdated: 2025-06-22
 ---
 
 
 This policy explains how Wholistic Fostering supports the review of a
-child's Placement Plan, contributes to Looked After Reviews, and takes
+child's Placement Plan, contributes to LAC Reviews, and takes
 part in Disruption Meetings when placements end unexpectedly.
 
 ## 📋 Placement Plan Reviews

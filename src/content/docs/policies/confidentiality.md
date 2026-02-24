@@ -1,5 +1,6 @@
 ---
-title: 🔐 Confidentiality Policy
+title: 📋 Confidentiality Policy
+lastUpdated: 2025-06-26
 ---
 
 

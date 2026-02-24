@@ -1,5 +1,6 @@
 ---
-title: 🚭 Smoking Policy
+title: 📋 Smoking Policy
+lastUpdated: 2025-07-08
 ---
 
 

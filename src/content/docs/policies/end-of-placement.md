@@ -1,5 +1,6 @@
 ---
-title: 🔚 The End of the Placement
+title: 📋 End of the Placements Policy
+lastUpdated: 2025-06-19
 ---
 
 

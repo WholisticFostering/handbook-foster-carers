@@ -1,5 +1,5 @@
 ---
-title: 🧑‍💼 Safer Recruitment of Staff
+title: 🧑‍💼 Safer Recruitment of Staff Policy
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-title: 🌐 Internet & Email Policy
+title: 📋 Internet & Email Policy
+lastUpdated: 2025-07-25
 ---
 
 

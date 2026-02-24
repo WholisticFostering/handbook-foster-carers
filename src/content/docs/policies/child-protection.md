@@ -1,5 +1,6 @@
 ---
-title: Child Protection Policy
+title: 📋 Child Protection Policy
+lastUpdated: 2025-07-20
 ---
 
 ## 📘 Purpose and Scope

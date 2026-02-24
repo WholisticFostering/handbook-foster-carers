@@ -1,5 +1,6 @@
 ---
-title: 📘 Children's Guide
+title: 📋 Children's Guide Policy
+lastUpdated: 2025-07-18
 ---
 
 

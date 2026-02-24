@@ -1,5 +1,6 @@
 ---
-title: 🔄 Interim Business Continuity Policy
+title: 📋 Interim Business Continuity Policy
+lastUpdated: 2025-07-27
 ---
 
 

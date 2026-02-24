@@ -2,7 +2,6 @@
 title: 📄 Data Protection, GDPR & Record Retention
 ---
 
-
 Wholistic Fostering is committed to complying with the UK GDPR and
 relevant data protection laws. We ensure all personal data is handled
 lawfully, stored securely, and retained only as long as necessary.

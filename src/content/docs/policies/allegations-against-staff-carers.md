@@ -1,7 +1,7 @@
 ---
-title: Allegations Against Staff and Foster Parents
+title: 📋 Allegations Policy
+lastUpdated: 2025-07-30
 sidebar:
-  label: Allegations
   order: 1
 description: Allegations Against Staff and Foster Parents Policy
 ---

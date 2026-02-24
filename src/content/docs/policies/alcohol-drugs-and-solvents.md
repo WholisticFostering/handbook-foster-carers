@@ -1,7 +1,7 @@
 ---
-title: Alcohol, Drugs & Solvents Policy
+title: 📋 Alcohol, Drugs & Solvents Policy
+lastUpdated: 2025-07-28
 sidebar:
-  label: Alcohol, Drugs & Solvents
   order: 1
 description: Emergency & Immediate Action Policy
 ---

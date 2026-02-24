@@ -1,5 +1,6 @@
 ---
-title: 🎨 Leisure
+title: 📋 Leisure & Interests Policy
+lastUpdated: 2025-06-19
 ---
 
 

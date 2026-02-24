@@ -1,5 +1,6 @@
 ---
-title: 📣 Monitoring & Notifications
+title: 📋 Monitoring & Notifications Policy
+lastUpdated: 2025-07-08
 ---
 
 

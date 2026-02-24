@@ -1,5 +1,6 @@
 ---
-title: 🧍‍♀️ Personal Care and Relationships
+title: 📋 Personal Care and Relationships Policy
+lastUpdated: 2025-07-20
 ---
 
 
@@ -85,7 +86,7 @@ Issues like bedwetting should be handled with sensitivity. Children
 should never be punished. Support should include privacy, cleaning help,
 and recording incidents if needed.
 
-## ✋ The Use of Touch
+## 📋 The Use of Touch
 
 Appropriate touch can reassure and comfort. Carers should:
 

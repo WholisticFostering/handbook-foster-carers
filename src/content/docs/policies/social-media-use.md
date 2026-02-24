@@ -1,5 +1,6 @@
 ---
-title: 🌐 Social Media Use (Facebook & Beyond)
+title: 📋 Social Media Use Policy (Facebook & Beyond)
+lastUpdated: 2025-06-21
 ---
 
 

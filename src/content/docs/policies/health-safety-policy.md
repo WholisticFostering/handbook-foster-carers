@@ -1,5 +1,6 @@
 ---
-title: 🏡 Health & Safety
+title: 📋 Health & Safety Policy
+lastUpdated: 2025-07-07
 ---
 
 

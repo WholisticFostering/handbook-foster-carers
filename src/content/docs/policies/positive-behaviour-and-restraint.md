@@ -1,5 +1,6 @@
 ---
-title: 💬 Promoting Positive Behaviour & Use of Control
+title: 📋 Promoting Positive Behaviour & Use of Control Policy
+lastUpdated: 2025-07-17
 ---
 
 

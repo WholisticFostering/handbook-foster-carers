@@ -1,5 +1,6 @@
 ---
-title: 🧭 Standards of Care
+title: 📋 Standards of Care Policy
+lastUpdated: 2025-07-23
 ---
 
 

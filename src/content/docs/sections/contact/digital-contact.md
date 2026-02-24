@@ -1,5 +1,7 @@
 ---
 title: Managing Digital & Social Media Contact
+sidebar:
+  label: Digital Contact
 ---
 Digital communication is part of everyday life for most children and young people.
 
@@ -200,8 +202,8 @@ Ofsted will look for:
 
 ### 📌 Related Policies
 
-- Contact & Family Time Policy  
-- Online Safety Policy  
-- Safeguarding & Child Protection Policy  
-- Safer Care Guidance  
-- Recording & Reporting Policy  
+- [Contact & Family Time Policy](policies/contact)
+- [Online Safety Policy](policies/)
+- [Safeguarding & Child Protection Policy](policies/safeguarding)  
+- [Safer Care Guidance](policies/)  
+- [Recording & Reporting Policy](policies/)  

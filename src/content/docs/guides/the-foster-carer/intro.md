@@ -2,8 +2,6 @@
 title: The Foster Carer
 ---
 
-![Foster Carer with Child](../../../../assets/svg/icons/house-hand.svg)
-
 This guide outlines what it means to foster with Wholistic.
 
 It focuses on:

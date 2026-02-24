@@ -1,5 +1,6 @@
 ---
-title: 🛡️ Violent Extremism and Radicalisation Policy
+title: 📋 Violent Extremism and Radicalisation Policy
+lastUpdated: 2025-07-08
 ---
 
 

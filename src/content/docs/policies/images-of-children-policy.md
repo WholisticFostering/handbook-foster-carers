@@ -1,5 +1,6 @@
 ---
-title: 📸 Images of Children Policy
+title: 📋 Images of Children Policy
+lastUpdated: 2025-07-08
 ---
 
 

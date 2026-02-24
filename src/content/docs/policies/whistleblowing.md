@@ -1,5 +1,6 @@
 ---
-title: 🔔 Whistleblowing Policy
+title: 📋 Whistleblowing Policy
+lastUpdated: 2025-07-16
 ---
 
 

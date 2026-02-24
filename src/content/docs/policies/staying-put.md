@@ -1,5 +1,6 @@
 ---
-title: 🏡 Staying Put Policy
+title: 📋 Staying Put Policy
+lastUpdated: 2025-06-23
 ---
 
 

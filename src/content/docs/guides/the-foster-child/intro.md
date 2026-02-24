@@ -2,8 +2,6 @@
 title: The Fostered Child
 ---
 
-![Foster Carer with Child](../../../../assets/svg/icons/house-question.svg)
-
 ## This guide explains what fostering means for the child in placement.
 
 It focuses on:

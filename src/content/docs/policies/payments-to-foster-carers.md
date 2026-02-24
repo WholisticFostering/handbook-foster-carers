@@ -1,5 +1,6 @@
 ---
-title: 💷 Payments to Foster Carers
+title: 📋 Payments to Foster Carers Policy
+lastUpdated: 2025-07-03
 ---
 
 

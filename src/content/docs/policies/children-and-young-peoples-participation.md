@@ -1,5 +1,6 @@
 ---
-title: 🗣️ Children and Young People's Participation
+title: 📋 Children and Young People's Participation Policy
+lastUpdated: 2025-06-18
 ---
 
 

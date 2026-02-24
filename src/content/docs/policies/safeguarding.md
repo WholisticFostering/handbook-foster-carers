@@ -1,5 +1,6 @@
 ---
-title: 🛡️ Safeguarding & Safer Caring
+title: 📋 Safeguarding & Safer Caring Policy
+lastUpdated: 2025-07-11
 ---
 
 

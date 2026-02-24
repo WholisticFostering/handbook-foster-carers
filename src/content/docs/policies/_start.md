@@ -1,5 +1,8 @@
 ---
 title: 📘 Our Policies
+lastUpdated: 2025-07-27
+sidebar:
+  order: -1
 ---
 
 

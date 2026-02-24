@@ -1,5 +1,6 @@
 ---
-title: 🧠 Behaviour Management Policy & Processes
+title: 📋 Behaviour Management Policy
+lastUpdated: 2025-07-05
 ---
 
 

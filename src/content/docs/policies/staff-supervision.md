@@ -1,5 +1,6 @@
 ---
-title: 👥 Staff Supervision
+title: 📋 Staff Supervision Policy
+lastUpdated: 2025-07-27
 ---
 
 

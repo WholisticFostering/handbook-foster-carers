@@ -1,5 +1,6 @@
 ---
-title: 🌍 Equality, Diversity & Inclusion (EDI) Policy
+title: 📋 Equality, Diversity & Inclusion (EDI) Policy
+lastUpdated: 2025-07-31
 ---
 
 

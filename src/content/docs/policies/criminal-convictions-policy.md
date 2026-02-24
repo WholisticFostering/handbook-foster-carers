@@ -1,5 +1,6 @@
 ---
-title: ⚖️ Criminal Convictions Policy
+title: 📋 Criminal Convictions Policy
+lastUpdated: 2025-07-31
 ---
 
 
